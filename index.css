@@ -1,0 +1,21 @@
+.bodyBtns{
+    display: flex;
+}
+
+.bodyTable{
+    margin-top: 10px;
+}
+
+th{
+    border-width: 2px;
+    padding: 5px;
+    border-style: inset;
+    border-color: blue;
+}
+
+td{
+    padding: 5px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: blue;
+}
